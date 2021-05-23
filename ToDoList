@@ -1,0 +1,8 @@
+> Create an HTML script containing chat featured screen:
+    - Login Page
+    - Php checking session
+    - Chat Screen(Retrieve chat)
+> Create a DB with proper data-format:
+    - tables - ID, QnA
+    - QnA - questions, answers(few-random)
+> Create JS to save chats to files (Local?).
